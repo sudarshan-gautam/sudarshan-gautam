@@ -1,16 +1,37 @@
-## Hi there 👋
+🛡️ Cybersecurity Portfolio – SOC, GRC & Excel Projects
 
-<!--
-**sudarshan-gautam/sudarshan-gautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Cybersecurity Portfolio! This GitHub repository showcases real-world projects that reflect my practical skills in:
 
-Here are some ideas to get you started:
+- ✅ Security Operations Centre (SOC) tasks
+- ✅ Threat & Incident Analysis (Excel)
+- ✅ GRC: Governance, Risk, and Compliance
+- ✅ Documentation & Reporting for audits and incidents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📊 SOC Excel Projects
+- Threat Analysis Dashboard**
+- Incident Timeline Tracking**
+- IOC Tracking Sheet**
+- MITRE ATT&CK Mapping**
+
+🧾 GRC Excel Templates
+- GRC Tracker Sheet
+- Risk Register
+- **Audit Findings Log
+
+📄 Professional Reports
+- Incident Response Report
+- Threat Intelligence Report
+- Cybersecurity Audit Report
+
+🧪 TryHackMe Labs
+Documented SOC Labs:
+- [TryHackMe: SOC Level 1](#)
+- [MITRE Mapping Practice](#)
+
+---
+
+📫 Let’s Connect
+LinkedIn: https://www.linkedin.com/in/sudarshangautam/
+Email: sudorsun@gmail.com
